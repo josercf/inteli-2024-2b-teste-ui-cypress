@@ -1,0 +1,1 @@
+# inteli-2024-2b-teste-ui-cypress
